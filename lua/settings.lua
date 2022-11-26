@@ -14,7 +14,7 @@ vim.opt.smartcase = true
 vim.opt.hlsearch = false
 
 -- Put this option in false if you want to make the text always visible
-vim.opt.wrap = true
+vim.opt.wrap = false
 
 -- Tabs options
 vim.opt.tabstop = 2
