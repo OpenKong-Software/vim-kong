@@ -9,7 +9,7 @@ const config = {
   title: 'vim-kong',
   tagline: 'Vim-Kong is an feature-rich neovim used in WhitekongSoftware team',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/vim-kong/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
