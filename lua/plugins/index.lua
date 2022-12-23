@@ -36,5 +36,4 @@ packer.startup(function()
 end
 )
 
-require("./plugins_setup")
-
+require('plugins/configs/index')
