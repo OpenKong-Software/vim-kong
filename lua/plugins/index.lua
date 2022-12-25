@@ -33,6 +33,8 @@ packer.startup(function()
   }
 
   use 'folke/tokyonight.nvim'
+
+  use 'vimwiki/vimwiki'
 end
 )
 
