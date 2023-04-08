@@ -34,6 +34,7 @@ packer.startup(function()
 
   use 'folke/tokyonight.nvim'
 	use 'vimwiki/vimwiki'
+	use { 'dundalek/lazy-lsp.nvim', requires = { 'neovim/nvim-lspconfig' } }
 end
 )
 
